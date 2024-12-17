@@ -1,0 +1,20 @@
+SSH –Key Gen Doc :
+Using Git Bash:
+1.	Goto browser and search for “GitBash for windows”.
+ 
+2.	Select Git and choose the OS for your system and download it and install it.
+
+3.	After install the GitBash you will get the screen below.
+4.	Create folder to key ssh key  
+5.	Write the below command to go above path
+cd ..”<path>”
+	Ex : cd ..” D:\DevOps Training”
+             
+6.	Type below command in git bash.
+ ssh-keygen –t rsa 
+7.	Rename the “DAWS-82S-New”.
+.pem user for private key
+.pub used for public key
+ 
+
+
